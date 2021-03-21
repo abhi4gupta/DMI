@@ -25,7 +25,9 @@ Implementation of Generalisation Ability of SVM based on Markov Sampling
 # Overview:
 We introduced a new Markov sampling algorithm for SVMC to generate u.e.M.c. samples from Magic dataset.
 
- 
+# Algorithm
+![image](https://user-images.githubusercontent.com/47221030/111910242-92ea2000-8a86-11eb-9f9c-782bf72ed634.png)
+
 # Results
 ![image](https://user-images.githubusercontent.com/47221030/111444228-2a224100-8730-11eb-8dc3-2cd53b0165ea.png)
 
