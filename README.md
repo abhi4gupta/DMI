@@ -2,9 +2,10 @@
 
 These are Assignments of DMI under supervision of Prof. O.P Vyas.
 # GROUP MEMBERS:
-* iit2018119 (Nehal Singh)
 
 * iit2018187 (Abhishek Kumar Gupta)
+
+* iit2018119 (Nehal Singh)
 
 * iit2018191 (Puja Kumari)
 
