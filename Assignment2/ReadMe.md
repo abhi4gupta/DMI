@@ -12,7 +12,7 @@
 
 # OVERVIEW 
 In this assignment we will be implementing a algorithm "DEEP SVDD" , on a dataset as mentioned in the research paper - http://proceedings.mlr.press/v80/ruff18a.html. 
-The One-Class Deep SVDD is showing good results.
+We will be doing Anomaly detection for classes {0,1,2,3,4,5,6,7,8,9} and results are shown below .
 
 # INSTALLATION AND OPERATING INSTRUCTIONS
 1. Upload deepSVDD_oneClassClassification.ipynb on Google Collab.
@@ -20,5 +20,9 @@ The One-Class Deep SVDD is showing good results.
 3. Run the code blocks.
 
 
+# Results:
+
+
+The One-Class Deep SVDD is showing good results.
 # CITATIONS
 Ruff, L., Vandermeulen, R., Goernitz, N., Deecke, L., Siddiqui, S.A., Binder, A., Müller, E. & Kloft, M.. (2018). Deep One-Class Classification. Proceedings of the 35th International Conference on Machine Learning, in PMLR 80:4393-4402
