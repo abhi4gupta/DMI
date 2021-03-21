@@ -1,4 +1,4 @@
-# Assignment 2: One class classification using deep SVDD
+# Assignment 2: One class classification using deep SVDD.
 # GROUP MEMBERS:
 * iit2018119 (Nehal Singh)
 
