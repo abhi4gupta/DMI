@@ -25,8 +25,8 @@ ROC SCORED FOR EACH CLASS :
 * ![image](https://user-images.githubusercontent.com/58623921/111903547-d2a20f00-8a68-11eb-917c-7752f61883ed.png)
 
 Outliers V/S inliers Graph for each class {0,1,2,3,4,5,6,7,8,9}: 
-![image](https://user-images.githubusercontent.com/58623921/111903829-092c5980-8a6a-11eb-9364-34fa50f7e291.png)
-![image](https://user-images.githubusercontent.com/58623921/111903854-1d705680-8a6a-11eb-84ef-aead25aa0ac1.png)
+* ![image](https://user-images.githubusercontent.com/58623921/111903829-092c5980-8a6a-11eb-9364-34fa50f7e291.png)
+* ![image](https://user-images.githubusercontent.com/58623921/111903854-1d705680-8a6a-11eb-84ef-aead25aa0ac1.png)
 
 So, The One-Class Deep SVDD is showing good results.
 # CITATIONS
