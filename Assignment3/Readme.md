@@ -1,4 +1,4 @@
-# DMW-Assignment1
+# DMW-Assignment3
 K-Times Markov Sampling for SVMC
 # Members:
 
