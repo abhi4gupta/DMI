@@ -22,6 +22,7 @@ We will be doing Anomaly detection for classes {0,1,2,3,4,5,6,7,8,9} and results
 
 # Results:
 ROC SCORED FOR EACH CLASS : 
+![image](https://user-images.githubusercontent.com/58623921/112655459-695e3980-8e76-11eb-8acb-71b074e925b0.png)
 
 Outliers V/S inliers Graph for each class {0,1,2,3,4,5,6,7,8,9}: 
 
