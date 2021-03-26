@@ -1,5 +1,5 @@
-# Assignment 5: SVM-Boosting based on Markov resampling
-# GROUP MEMBERS:
+# Assignment 5 : SVM-Boosting based on Markov resampling
+# GROUP MEMBERS :
 * iit2018119 (Nehal Singh)
 
 * iit2018187 (Abhishek Kumar Gupta)
