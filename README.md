@@ -21,3 +21,5 @@ These are Assignments of DMI under supervision of Prof. O.P Vyas.
 3. Assignment 3 : K-Times Markov Sampling for SVMC
 4. Assignment 4 : Deep Support Vector Data Description for Unsupervised and Semi-Supervised Anomaly Detection
 5. Assignment 5 : SVM-Boosting based on Markov resampling
+6. Assignment 6 : One-Class Slab Support Vector Machine
+7. Assignment 7 : A One-Class Classification decision Tree based on kernel density estimation
