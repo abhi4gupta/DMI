@@ -29,5 +29,10 @@ Outliers V/S inliers Graph for each class {0,1,2,3,4,5,6,7,8,9}:
 * ![image](https://user-images.githubusercontent.com/58623921/111903854-1d705680-8a6a-11eb-84ef-aead25aa0ac1.png)
 
 So, The One-Class Deep SVDD is showing good results.
+# visualisation
+
+![image](https://user-images.githubusercontent.com/47221030/112675722-82261980-8e8d-11eb-8eab-d9c5d242925d.png)
+
+
 # CITATIONS
 Ruff, L., Vandermeulen, R., Goernitz, N., Deecke, L., Siddiqui, S.A., Binder, A., Müller, E. & Kloft, M.. (2018). Deep One-Class Classification. Proceedings of the 35th International Conference on Machine Learning, in PMLR 80:4393-4402
