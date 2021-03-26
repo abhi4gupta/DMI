@@ -31,7 +31,8 @@ Outliers V/S inliers Graph for each class {0,1,2,3,4,5,6,7,8,9}:
 So, The One-Class Deep SVDD is showing good results.
 # visualisation
 
-![image](https://user-images.githubusercontent.com/47221030/112675722-82261980-8e8d-11eb-8eab-d9c5d242925d.png)
+![image](https://user-images.githubusercontent.com/47221030/112675856-b1d52180-8e8d-11eb-803f-95d17eeeb247.png)
+
 
 
 # CITATIONS
