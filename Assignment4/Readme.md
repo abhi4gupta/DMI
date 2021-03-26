@@ -26,7 +26,7 @@ ROC SCORED FOR EACH CLASS :
 
 . ![image](https://user-images.githubusercontent.com/58623921/112655459-695e3980-8e76-11eb-8acb-71b074e925b0.png)
 
-Outliers V/S inliers Graph for each class {0,1,2,3,4,5,6,7,8,9}:
+Outliers V/S inliers Graph for each class { 0,1,2,3,4,5,6,7,8,9 } :
 . ![image](https://user-images.githubusercontent.com/58623921/112661045-1b4c3480-8e7c-11eb-98db-cfef8e4df75c.png)
 . ![image](https://user-images.githubusercontent.com/58623921/112661128-2f903180-8e7c-11eb-9fc1-5e5d591aafbb.png)
 
