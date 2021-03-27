@@ -11,7 +11,7 @@
 * iit2018117 (Palak Mittal)
 
 # OVERVIEW  
-In this assignment we will be implementing a algorithm "SVM-Boosting based on Markov resampling" .
+In this assignment we will be implementing a algorithm "One-Class Slab Support Vector Machine" .
 
 # INSTALLATION AND OPERATING INSTRUCTIONS
 1a. Upload OneClassSlab_letter.ipynb on Google Collab. ( Letter Dataset)
