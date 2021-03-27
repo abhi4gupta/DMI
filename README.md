@@ -1,18 +1,19 @@
 # DMI
 
-These are Assignments of DMI under supervision of Prof. O.P Vyas.
+These are the Assignments of Data Mining (DMI).
 
 # GROUP MEMBERS:
 
-* iit2018187 (Abhishek Kumar Gupta)
-
 * iit2018119 (Nehal Singh)
+
+* iit2018117 (Palak Mittal)
+
+* iit2018187 (Abhishek Kumar Gupta)
 
 * iit2018191 (Puja Kumari)
 
 * iit2018195 (Prabha Kumari)
 
-* iit2018117 (Palak Mittal)
 
 # List
 
