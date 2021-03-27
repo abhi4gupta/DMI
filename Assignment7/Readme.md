@@ -16,7 +16,7 @@ In this assignment we will be implementing a algorithm "A One-Class Classificati
 # INSTALLATION AND OPERATING INSTRUCTIONS
 1a. Upload OneClassTree_letter.ipynb on Google Collab. ( Letter Dataset)
 2b. Upload OneClassTree_voco.ipynb on Google Collab. ( Pascal Dataset)
-2. Upload Dataset.
+2. Upload Dataset: https://www.kaggle.com/huanghanchina/pascal-voc-2012
 3. Run the code blocks.
 
 # Results:
