@@ -16,7 +16,7 @@ In this assignment we will be implementing a algorithm "One-Class Slab Support V
 # INSTALLATION AND OPERATING INSTRUCTIONS
 1a. Upload OneClassSlab_letter.ipynb on Google Collab. ( Letter Dataset)
 2b. Upload OneClassSlabSVM_voco.ipynb on Google Collab. ( Pascal Dataset)
-2. Upload Dataset.
+2. Upload Dataset.(https://www.kaggle.com/huanghanchina/pascal-voc-2012)
 3. Run the code blocks.
 
 
