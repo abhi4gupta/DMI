@@ -1,4 +1,4 @@
-# DMI
+# Data Mining ( DMI )
 
 These are the Assignments of Data Mining (DMI).
 
