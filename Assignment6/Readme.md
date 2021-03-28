@@ -16,16 +16,18 @@ In this assignment we will be implementing a algorithm "One-Class Slab Support V
 # INSTALLATION AND OPERATING INSTRUCTIONS
 1a. Upload OneClassSlab_letter.ipynb on Google Collab. ( Letter Dataset)
 2b. Upload OneClassSlabSVM_voco.ipynb on Google Collab. ( Pascal Dataset)
-2. Upload Dataset.(https://www.kaggle.com/huanghanchina/pascal-voc-2012)
-3. Run the code blocks.
+2. Upload Dataset
+ Pascal Dataset : (https://www.kaggle.com/huanghanchina/pascal-voc-2012)
+ Letter dataset : letter-recognition.data
+4. Run the code blocks.
 
 
 # Results:
-1. Letter Dataset (Classification report )
+1. Letter Dataset ( Classification report ,  Accuracy  , Macro Avg , Weighted Average) : 
 ![image](https://user-images.githubusercontent.com/58623921/112708916-22565f80-8edb-11eb-8d2d-2b75c01ac26a.png)
 
 
-2. Pascal Dataset (Classification report)
+2. Pascal Dataset ( Classification report ,  Accuracy  , Macro Avg , Weighted Average) :
 ![image](https://user-images.githubusercontent.com/58623921/112708923-3306d580-8edb-11eb-840a-167bc53eaddc.png)
 
 
