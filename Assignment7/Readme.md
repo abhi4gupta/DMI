@@ -16,14 +16,16 @@ In this assignment we will be implementing a algorithm "A One-Class Classificati
 # INSTALLATION AND OPERATING INSTRUCTIONS
 1a. Upload OneClassTree_letter.ipynb on Google Collab. ( Letter Dataset)
 2b. Upload OneClassTree_voco.ipynb on Google Collab. ( Pascal Dataset)
-2. Upload Dataset: https://www.kaggle.com/huanghanchina/pascal-voc-2012
-3. Run the code blocks.
+2. Upload Dataset:
+Pascal Dataset : https://www.kaggle.com/huanghanchina/pascal-voc-2012
+Letter Dataset : letter-recognition.data
+4. Run the code blocks.
 
 # Results:
-1. Letter Dataset (Classification report )
+1. Letter Dataset (( Classification report ,  Accuracy  , Macro Avg , Weighted Average) )
 ![image](https://user-images.githubusercontent.com/58623921/112709103-7150c480-8edc-11eb-8488-db08c154730a.png)
 
-2. Pascal Dataset (Classification report)
+2. Pascal Dataset (( Classification report ,  Accuracy  , Macro Avg , Weighted Average) )
 ![image](https://user-images.githubusercontent.com/58623921/112709109-7c0b5980-8edc-11eb-9777-ded20dfc4f07.png)
 
 
